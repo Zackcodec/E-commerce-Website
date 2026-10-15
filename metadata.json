@@ -1,0 +1,6 @@
+{
+  "name": "XURE — Bespoke Men's Apparel & Local Boutiques",
+  "description": "Customized fitting clothes, local neighborhood boutiques marketplace, curated accessories, offers, and creator programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
